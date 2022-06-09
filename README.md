@@ -142,7 +142,7 @@
 ># gynoecium _
 >if $oddity {
 >#_an_explanation_(uncomment_it)_ _
-> pendown
+># pendown
 > forward 54 / 3.1416
 > turnleft 90
 > pendown
