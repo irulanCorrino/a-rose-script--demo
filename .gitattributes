@@ -1,0 +1,2 @@
+# to prevent web-publishing view of source code in kturtle from being mistaken for original code
+*.html linguist-documentation
